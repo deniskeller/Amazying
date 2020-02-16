@@ -1,0 +1,8 @@
+@media (max-width: 810px) {
+  .header-top__menu {
+    display: none;
+  }
+  .header .header-top .header-top__left-items {
+    display: none;
+  }
+}
