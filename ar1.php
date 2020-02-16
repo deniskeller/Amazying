@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 if (!empty($_POST['phone'])) {
 	$_POST['mail'] = 'aag@amazying.com';
 	$ch = curl_init();
@@ -10,4 +10,4 @@ if (!empty($_POST['phone'])) {
     curl_close($ch);
     file_get_contents("https://sms.ru/sms/send?api_id=86257da9-224b-c414-8972-7c06771d0fd2&to=79297140255&msg=".urlencode("Заявка: name=".$_POST['name']." phone=".$_POST['phone'])."&json=1");
 	echo 'Отправлено';
-}
+} -->
