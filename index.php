@@ -41,7 +41,7 @@
                 <div class="btn btn-active btn-rus">РУС</div>
               </div>
               
-              <a href="/business.html" class="btn-investor">предпринимателям</a>
+              <a href="/business" class="btn-investor">предпринимателям</a>
               
               
             </div>

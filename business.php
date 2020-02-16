@@ -62,7 +62,7 @@
                       <div class="btn btn-eng">ENG</div>
                       <div class="btn btn-active btn-rus">РУС</div>
                     </div>
-                    <a href="/index.html" class="btn-investor">инвесторам</a>
+                    <a href="/business" class="btn-investor">инвесторам</a>
                   </div>
                     <a href="#" class="menu-btn">
                       <span></span>
